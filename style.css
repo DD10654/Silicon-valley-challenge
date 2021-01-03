@@ -1,0 +1,119 @@
+body {
+	text-align: center;
+
+
+}
+
+
+.text {
+	color: aliceblue;
+	font-family: 'Staatliches', cursive;
+}
+
+
+.container {
+	background-color: black;
+	text-align: center;
+}
+
+#myNavbar {
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
+
+#title {
+	font-size: 50px;
+}
+
+.section {
+	padding-bottom: 100px;
+	padding-top: 100px
+}
+
+
+
+
+#overview,
+#trunk {
+	padding-top: 500px !important;
+}
+
+.line {
+	height: 6px;
+	width: 1133px;
+	background-color: white;
+
+}
+
+
+
+#mycarousel {
+	background-color: gray;
+	padding-top: 100px
+}
+
+
+.carousel-inner h2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: white;
+	font-size: 20px;
+}
+
+#mycarousel1 {
+	background-color: gray;
+	padding-top: 100px
+}
+
+#menu {
+
+	list-style: none;
+	font-family: cursive;
+	top: 0px;
+	margin-top: 0px;
+	width: 100%;
+	background-color: black;
+    cursor: pointer;
+	color: black;
+	position: fixed;
+	z-index: 10;
+
+}
+
+.links {
+
+	color: aliceblue;
+	display: inline;
+	padding-left: 33px;
+	padding-right: 25px;
+	font-family: sans-serif;
+	font-size: 30px;
+}
+
+.links:hover {
+	font-size: 45px;
+	text-decoration: underline;
+}
+
+.menu a {
+
+
+	font-size: 20px;
+}
+
+
+news a
+{
+	font-size: 40px;
+}
+
+social a
+{
+	font-size: 40px;
+}
+
+#heading_social
+{
+	padding-bottom: 40px;
+}
